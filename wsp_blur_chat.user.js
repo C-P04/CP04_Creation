@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Whatsapp Chat Blure
+// @name         Whatsapp Chat Blur
 // @namespace    http://tampermonkey.net/
 // @version      2025-08-20
 // @description  be private
